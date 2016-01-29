@@ -283,3 +283,5 @@ Show of your work by taking a screenshot of your filled treasure box or code and
 ## Done and Done
 
 Lastly, you need to enter in terminal in Nitrous `learn submit`. This command will push your work to GitHub and mark this lesson as complete in Learn!
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-code-club-input-output-app' title='Order Up'>Order Up</a> on Learn.co and start learning to code for free.</p>
